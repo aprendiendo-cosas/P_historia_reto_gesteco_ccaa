@@ -6,90 +6,36 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Unas 2 horas.
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/P_escenarios_reto_gesteco_ccaa/main/imagenes/portada.png)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/P_historia_reto_gesteco_ccaa/2024_2025/imagenes/portada.png)
 
 
 
 ## Objetivos 
 
-Esta fase es muy importante porque supone un punto de inflexión en la metodología que estamos aplicando. Las fases anteriores implican, básicamente, un proceso de caracterización y reconocimiento del sistemas socioecológico en el que se desarrolla el reto asignado. Las siguientes fases se adentran en la idea de la formulación de propuestas ....
+Esta fase es muy importante porque supone un punto de inflexión en la metodología que estamos aplicando. Las fases anteriores implican, básicamente, un proceso de caracterización y reconocimiento del sistemas socioecológico en el que se desarrolla el reto asignado. Las siguientes fases se adentran en la idea de la formulación de propuestas para "resolver" el reto abordado. Esta fase consiste en dinamizar la foto fija que hemos adquirido a lo largo del trabajo sobre el sistema socioecológico estudiado. Veremos cómo los actores del socioecosistema y su funcionamiento cambian a lo largo del tiempo. De forma más concreta, los objetivos que planteamos son:
 
-
-
-vamos a dinamizar la foto fija que hemos adquirido en las fases anteriores. Usaremos la panarquía para ello
-
-
-
-
-
-Los objetivos concretos de esta fase son:
-
-- Identificar los componentes principales del problema asignado.
-- Utilizar la información recopilada hasta ahora para descomponer el reto en otros problemas más sencillos de formular.
-- Conectar los problemas más sencillos con cuestiones ecológicas, sociales o ambientales ya conocidas. 
-- Conectar los problemas identificados con los actores ya identificados en los pasos anteriores y con sus intereses.
+- Posicionar la situación actual del socioecosistema estudiado en una de las fases del modelo conceptual de la panarquía.
+- Esbozar una evolución temporal del socioecosistema partiendo también del marco conceptual panárquico. 
+- Tratar de "predecir" los posibles cambios que experimentará el sistema si no hacemos nada según, de nuevo, la idea del dinamismo panárquico. 
 
 
 
 ## ¿Cómo lo hacemos? ¿Qué resultados esperamos?
-La metodología para trabajar en esta fase se basa en los siguientes pasos que se describen con detalle en las siguientes secciones:
+Trabajamos esta fase en clase de manera colaborativa. El objetivo de la sesión es construir una historia "panárquica" para cada uno de los retos.
 
-+ Identificación de componentes principales.
-+ Caracterización de componentes principales.
-+ Identificación de obstáculos.
-
-### Identificación de componentes principales
-
-En esta fase deberemos dividir el problema complejo general en otros más sencillos que sean más manejables o acotables. Esto nos ayudará a identificar aspectos del reto que pueden ser abordados con el conocimiento del que disponemos. En la identificación de estos "subproblemas" juegan un papel importante los actores identificados en la fase anterior.
-
-A modo de ejemplo, identificaremos los componentes principales del siguiente reto complejo: ¿Cómo podemos mejorar la motivación de los estudiantes de ciencias ambientales de la UCO? 
-
-Para identificar componentes de este reto debemos preguntarnos por las variables o elementos que participan en dicho reto. En este caso podrían ser los siguientes:
-
-- La motivación depende del interés previo en la titulación. Por tanto, un problema más manejable sería: *El porcentaje de estudiantes que eligen esta titulación en primer lugar es bajo.*
-- También sabemos que la motivación baja si los estudiantes no son tratados adecuadamente por algunos profesores. Por tanto, un problema manejable sería: *Algunos profesores no tienen suficiente estima por los estudiantes de ambientales.*
-- Por último (hay muchos más, pero en este ejemplo nos quedaremos aquí), sabemos que la sobrecarga de trabajo con poco impacto en el aprendizaje baja la motivación. Tener muchas tareas hace que estudiar se convierta en una carrera de obstáculos. Por tanto, un problema más manejable sería: *Hay poca coordinación en las asignaturas del grado y eso implica sobrecarga inecesaria de tareas.* 
-
-En el caso de los retos socioecológicos que tenéis que abordar, se podría seguir un proceso parecido.
-
-
-> [!TIP] 
-> *El resultado de esta etapa es un texto enumeranado los problemas más manejables y describiendo sus características principales. También se puede crear un mapa mental con dichos problemas.*
+A modo de recordatorio, la panarquía es un término que permit explicar cómo evolucionan en el tiempo sistemas complejos como los que nos ocupan. La combinación del funcionamiento de los elementos de estos sistemas suele generar un patrón temporal de evolución en todo el sistema. Este patrón suele implicar una secuencia de fases de crecimiento, acumulación, reestructuración y renovación. La siguiente figura muestra esta idea. 
 
 
 
-### Caracterización de los componentes principales de cada problema manejable
-
-Este segundo paso implica caracterizar cada uno de los problemas identificados anteriormente desde el punto de vista ecológico y social. Se trata de indicar qué elementos sociales y ecológicos participan en cada uno de los problemas "menores" descritos anteriormente.
-
-Por ejemplo, si uno de los retos manejables fuera *Los conejos se comen los olivos*, los componentes ecológico y social serían:
-
-+ Componentes ecológicos:
-  + Las poblaciones de conejos depredan los olivares porque la sequía ha hecho que los pastos sean escasos.
-  + En los últimos años, los cultivos de olivo se han extendido mucho y han reducido la superficie de pasto y de matorral.
-+ Componentes sociales:
-  + Los agricultores ven peligrar su producción por los conejos. 
-  + Los ecologistas ponen de manfiesto el problema.
-  + La administración ambiental se encarga de tramitar las solicitudes de caza de conejos.
+Panarquía, un término ideado para describir sistemas jerárquicos en  evolución con múltiples elementos interrelacionados, ofrece un nuevo  marco importante para comprender y resolver este dilema. Panarquía es la estructura en la que los sistemas, incluidos los de la naturaleza (p.  ej., los bosques) y de los humanos (p. ej., el capitalismo), así como  los sistemas humano-naturales combinados (p. ej., las instituciones que  gobiernan el uso de recursos naturales como el servicio forestal), están interrelacionados en ciclos de crecimiento, acumulación,  reestructuración y renovación adaptativos continuos.[[13\]](https://es.wikipedia.org/wiki/Panarquía#cite_note-13)
 
 
 
-> [!TIP] 
-> *El resultado de esta etapa se incorporará al archivo de texto anterior o al mapa mental que vayáis elaborando.*
 
 
 
-### Identificación de obstáculos y oportunidades
 
-El último paso de esta fase implica asignar a cada una de las componentes anteriores uno o varios obstáculos y oportunidades. La idea es que seamos capaces de pensar en limitaciones para resolver el problema y también en oportunidades que surgen. Siguiendo con el ejemplo anterior del conejo, tendríamos lo siguiente
 
-- Componente ecológica: Las poblaciones de conejos depredan los olivares porque la sequía ha hecho que los pastos sean escasos.
-  - Obstáculos para resolver el problema:
-    - No es fácil buscar alternativa para que se alimenten los conejos.
-    - Los agricultores no aceptarán medidas que no impliquen reducir las poblaciones de conejos.
-  - Oportunidades:
-    - Quizás este problema sería una oportunidad para involucrar a los cazadores en la resolución de un problema ambiental.
-    - También puede ser una buena oportunidad para concienciar a la población de los problemas que genera la sustitución de hábitats naturales por cultivos.
 
 
 > [!TIP] 

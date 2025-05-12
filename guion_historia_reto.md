@@ -23,13 +23,16 @@ Esta fase es muy importante porque supone un punto de inflexión en la metodolog
 ## ¿Cómo lo hacemos? ¿Qué resultados esperamos?
 Trabajamos esta fase en clase de manera colaborativa. El objetivo de la sesión es construir una historia "panárquica" para cada uno de los retos.
 
-A modo de recordatorio, la panarquía es un término que permit explicar cómo evolucionan en el tiempo sistemas complejos como los que nos ocupan. La combinación del funcionamiento de los elementos de estos sistemas suele generar un patrón temporal de evolución en todo el sistema. Este patrón suele implicar una secuencia de fases de crecimiento, acumulación, reestructuración y renovación. La siguiente figura muestra esta idea. 
+A modo de recordatorio, la panarquía es un término que permite explicar cómo evolucionan en el tiempo sistemas complejos como los que nos ocupan. La combinación del funcionamiento de los elementos de estos sistemas suele generar un patrón temporal de evolución en todo el sistema. Este patrón suele implicar una secuencia de fases de crecimiento, acumulación, reestructuración y renovación. La siguiente figura muestra esta idea. 
 
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/P_historia_reto_gesteco_ccaa/2024_2025/imagenes/panarquia.png)
 
+La historia del socioecosistema se construirá situando sobre un esquema de la panarquía distintas fechas que nos darán idea de en qué momento del ciclo está cada sistema. Por ejemplo, para el reto del lobo, podemos considerar que el presente está en la fase de reorganización. Esto implica que las siguientes etapas conllevarán un crecimiento neto en el sistema. Además, como pondremos sobre el mismo esquema las fechas de distintos retos, tendremos la oportunidad de compararlos de alguna forma.
 
-Panarquía, un término ideado para describir sistemas jerárquicos en  evolución con múltiples elementos interrelacionados, ofrece un nuevo  marco importante para comprender y resolver este dilema. Panarquía es la estructura en la que los sistemas, incluidos los de la naturaleza (p.  ej., los bosques) y de los humanos (p. ej., el capitalismo), así como  los sistemas humano-naturales combinados (p. ej., las instituciones que  gobiernan el uso de recursos naturales como el servicio forestal), están interrelacionados en ciclos de crecimiento, acumulación,  reestructuración y renovación adaptativos continuos.[[13\]](https://es.wikipedia.org/wiki/Panarquía#cite_note-13)
+Para llevar a cabo esta actividad procedemos en dos pasos:
 
-
++ En primer lugar los grupos se reunen y tratan de contar una historia de su socioecosistema. Para ello recurren al conocimiento que ya tienen y también a búsquedas de información en internet y con IAs. Esto generará un breve texto con la historia de cada socioecosistema.
++ En segundo lugar, un portavoz de cada equipo va proponiendo fechas y ubicación de las mismas dentro del ciclo de la panarquía. El profesor va situando esas fechas en la pizarra.
 
 
 

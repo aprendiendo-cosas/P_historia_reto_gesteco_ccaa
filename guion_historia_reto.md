@@ -25,7 +25,7 @@ Trabajamos esta fase en clase de manera colaborativa. El objetivo de la sesión 
 
 A modo de recordatorio, la panarquía es un término que permite explicar cómo evolucionan en el tiempo sistemas complejos como los que nos ocupan. La combinación del funcionamiento de los elementos de estos sistemas suele generar un patrón temporal de evolución en todo el sistema. Este patrón suele implicar una secuencia de fases de crecimiento, acumulación, reestructuración y renovación. La siguiente figura muestra esta idea. 
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/P_historia_reto_gesteco_ccaa/2024_2025/imagenes/panarquia.png)
+![panarquia](https://raw.githubusercontent.com/aprendiendo-cosas/P_historia_reto_gesteco_ccaa/2024_2025/imagenes/panarquia.png)
 
 La historia del socioecosistema se construirá situando sobre un esquema de la panarquía distintas fechas que nos darán idea de en qué momento del ciclo está cada sistema. Por ejemplo, para el reto del lobo, podemos considerar que el presente está en la fase de reorganización. Esto implica que las siguientes etapas conllevarán un crecimiento neto en el sistema. Además, como pondremos sobre el mismo esquema las fechas de distintos retos, tendremos la oportunidad de compararlos de alguna forma.
 

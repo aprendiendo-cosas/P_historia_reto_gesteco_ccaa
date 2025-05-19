@@ -41,10 +41,11 @@ Para llevar a cabo esta actividad procedemos en dos pasos:
 > *El resultado de esta fase se puede expresar en dos niveles diferentes. Por un lado, cada equipo de trabaja genera un diagrama que permite interpretar la historia del reto que aborda con la clave de la panarquía. Por otro lado, la comparación de las historias de los retos nos ayuda a entender algunas cuestiones importantes a escala global.*
 
 ## Resultados obtenidos
-Como avanzamos esta fase en clase, se describen a continuación los resultados alcanzados. 
+Como avanzamos esta fase en clase, se muestran a continuación los resultados alcanzados. Para cada uno de los seis grupos que asistieron a esta sesión, se ha realizado un esquema panárquico. También se muestra el dibujo de la pizarra. He intentado transcribirlo a un esquema más legible, pero quizás no he identificado bien los colores. Mis disculpas si me he equivocado en algo.
 
 
 
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/P_historia_reto_gesteco_ccaa/main/imagenes/resultados.png)
 
 
 

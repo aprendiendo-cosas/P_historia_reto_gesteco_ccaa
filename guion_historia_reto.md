@@ -1,7 +1,7 @@
-#  Reto socioecológico: **Identificación** **de propiedades dinámicas y ciclos adaptativos**
+#  Reto socioecológico: El peso de la historia 
 
 > + **_Tipo de material_**: <span style="display: inline-block; font-size: 12px; color: white; background-color: #8D26F5; border-radius: 5px; padding: 5px; font-weight: bold;"> Tarea</span> <span style="display: inline-block; font-size: 12px; color: white; background-color: #4caf50; border-radius: 5px; padding: 5px; font-weight: bold;"> Prácticas</span>
-> + **_Versión_**: 2024-2025
+> + **_Versión_**: 2025-2026
 > + **_Asignatura (grado)_**: Gestión de ecosistemas (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Unas 2 horas.
@@ -40,14 +40,15 @@ Para llevar a cabo esta actividad procedemos en dos pasos:
 > [!TIP] 
 > *El resultado de esta fase se puede expresar en dos niveles diferentes. Por un lado, cada equipo de trabaja genera un diagrama que permite interpretar la historia del reto que aborda con la clave de la panarquía. Por otro lado, la comparación de las historias de los retos nos ayuda a entender algunas cuestiones importantes a escala global.*
 
+
+
+
+
 ## Resultados obtenidos
-Como avanzamos esta fase en clase, se muestran a continuación los resultados alcanzados. Para cada uno de los seis grupos que asistieron a esta sesión, se ha realizado un esquema panárquico. También se muestra el dibujo de la pizarra. He intentado transcribirlo a un esquema más legible, pero quizás no he identificado bien los colores. Mis disculpas si me he equivocado en algo.
 
-![resultados](https://raw.githubusercontent.com/aprendiendo-cosas/P_historia_reto_gesteco_ccaa/2024_2025/imagenes/resultados.png)
+Aquí pondremos los esquemas "panárquicos" de los distintos grupos tal y como resultan al hacerlos en clase.
 
-![pizarra](https://raw.githubusercontent.com/aprendiendo-cosas/P_historia_reto_gesteco_ccaa/2024_2025/imagenes/pizarra.jpg)
 
-Estos esquemas nos permiten proyectar los sistemas socioecológicos que estamos estudiando en el dominio del tiempo. También nos ayudan a previsualizar los escenarios que estudiaremos en la siguiente fase.
 
 
 

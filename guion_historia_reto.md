@@ -27,12 +27,14 @@ A modo de recordatorio, la panarquía es un término que permite explicar cómo 
 
 ![panarquia](https://raw.githubusercontent.com/aprendiendo-cosas/P_historia_reto_gesteco_ccaa/2024_2025/imagenes/panarquia.png)
 
-La historia del socioecosistema se construirá situando sobre un esquema de la panarquía distintas fechas que nos darán idea de en qué momento del ciclo está cada sistema. Por ejemplo, para el reto del lobo, podemos considerar que el presente está en la fase de reorganización. Esto implica que las siguientes etapas conllevarán un crecimiento neto en el sistema. Además, como pondremos sobre el mismo esquema las fechas de distintos retos, tendremos la oportunidad de compararlos de alguna forma.
+La historia del socioecosistema se construirá situando sobre un esquema de la panarquía distintas fechas que nos darán idea de en qué momento del ciclo está cada sistema. Por ejemplo, para un reto relacionado con la reintroducción del lobo, podemos considerar que el presente está en la fase de reorganización. Las poblaciones de lobo están creciendo como consecuencia de políticas ambientales aplicadas en los últimos años. Esto implica que las siguientes etapas conllevarán un crecimiento neto en el sistema. Además, como pondremos sobre el mismo esquema las fechas de distintos retos, tendremos la oportunidad de compararlos de alguna forma.
 
 Para llevar a cabo esta actividad procedemos en dos pasos:
 
 + En primer lugar los grupos se reunen y tratan de contar una historia de su socioecosistema. Para ello recurren al conocimiento que ya tienen y también a búsquedas de información en internet y con IAs. Esto generará un breve texto con la historia de cada socioecosistema.
-+ En segundo lugar, un portavoz de cada equipo va proponiendo fechas y ubicación de las mismas dentro del ciclo de la panarquía. El profesor va situando esas fechas en la pizarra.
++ El siguiente paso que propongo consiste en identificar en qué fase del ciclo panárquico está el sistema en la actualidad.
++ Luego, iremos colocando en el ciclo panárquico los hitos históricos identificados en el primera paso.
++ La última etapa implica colocar las fechas en la pizarra para tener una descripción del reto en cuestión con la mirada de la panarquía. 
 
 
 
